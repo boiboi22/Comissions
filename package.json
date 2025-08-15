@@ -1,0 +1,9 @@
+{
+    "scripts": {
+      "start": "server --reload"
+    },
+    "dependencies": {
+      "servor": "^4.0.2"
+    }
+  }
+  
